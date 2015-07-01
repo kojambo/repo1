@@ -13,5 +13,6 @@ class heatingItem(scrapy.Item):
     # name = scrapy.Field()
     title = scrapy.Field()
     # longtitle = scrapy.Field()
-    linkwithprice = scrapy.Field()
+    #linkwithprice = scrapy.Field()
+    price = scrapy.Field()
     pass
