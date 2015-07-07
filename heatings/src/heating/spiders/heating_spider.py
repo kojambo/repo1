@@ -10,7 +10,7 @@ class heatingSpider(scrapy.Spider):
     start_urls = [
         "http://www.idealo.de/preisvergleich/ProductCategory/18406F1529515-1898979.html?param.alternativeView=true&param.resultlist.count=50"
     ]
-    # alculate random sleep time
+    # calculate random sleep time
     # obtained from snippet luerichs Scraper Thread   
     def _time_to_wait(self):
         return random.uniform(.5, 1.5)
@@ -61,10 +61,36 @@ class heatingSpider(scrapy.Spider):
    
     
     def parse_dir_contents(self, response):
+        
+        #=======================================================================
+        # for sel in response.xpath('//tr'):
+        #     item = heatingItem()
+        #     item['title'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/text()').extract()
+        #     item['linkwithprice'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/@href').extract()
+        #=======================================================================
+
+        
+        
         for sel in response.xpath('//div'):
             item = heatingItem()
-            #item['title'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/text()').extract()
-            item['title'] = sel.xpath('h1[@class="heading-1"]/text()').extract()
+            item['price'] = sel.xpath('a/span[@class="price"]/text()').extract()
+
+            
+            #time.sleep(self._time_to_wait())
+            # sleep time# http://stackoverflow.com/a/28105362/5061417 
+            yield item
+            
+        next_page = response.css("div.pagination > div.inner > a::attr('href')")
+        if next_page:
+            url = response.urljoin(next_page[0].extract())
+            yield scrapy.Request(url, self.parse_dir_contents)
+
+
+## wie gehe ich die Auswahlkriterien durch?
+
+
+
+            #item['title'] = sel.xpath('h1[@class="heading-1"]/text()').extract()
             #===================================================================
             # # title seems to be in a child node sometimes, read this: http://stackoverflow.com/questions/18433376/xpath-select-certain-child-nodes
             # # use selenium and downloader middleware: http://stackoverflow.com/a/31140474/5061417
@@ -81,21 +107,3 @@ class heatingSpider(scrapy.Spider):
             # ## item['longtitle'] = u' ,'.join(sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/descendant-or-self::*[not(self::script)]/text()').extract())
             # ## item['longtitle'] = u' ,'.join(sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/text()').extract())
             #===================================================================
-
-            
-            
-            #item['linkwithprice'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/@href').extract()
-            item['price'] = sel.xpath('a/span[@class="price"]/text()').extract()
-            #time.sleep(self._time_to_wait())
-            # sleep time# http://stackoverflow.com/a/28105362/5061417 
-            yield item
-            
-        next_page = response.css("div.inner > a::attr('href')")
-        if next_page:
-            url = response.urljoin(next_page[0].extract())
-            yield scrapy.Request(url, self.parse_dir_contents)
-
-
-## bekomme ich alle angezeigten Seiten?
-## wie gehe ich die Auswahlkriterien durch?
-## 

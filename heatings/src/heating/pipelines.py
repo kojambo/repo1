@@ -1,3 +1,4 @@
+from scrapy.exceptions import DropItem
 # -*- coding: utf-8 -*-
 
 # Define your item pipelines here
@@ -8,4 +9,19 @@
 
 class heatingPipeline(object):
     def process_item(self, item, spider):
-        return item
+        if item['price']:
+            return item
+        else:
+            raise DropItem("Leer")
+            
+            
+        #=======================================================================
+        # if not item['linkwithprice']:
+        #     if not item['title']:
+        #         raise DropItem("Leer")
+        #     else:
+        #         return item
+        # else:
+        #     return item
+        #=======================================================================
+

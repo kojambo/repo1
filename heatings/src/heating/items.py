@@ -11,8 +11,8 @@ import scrapy
 class heatingItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    title = scrapy.Field()
+    # title = scrapy.Field()
     # longtitle = scrapy.Field()
-    #linkwithprice = scrapy.Field()
+    # linkwithprice = scrapy.Field()
     price = scrapy.Field()
     pass
