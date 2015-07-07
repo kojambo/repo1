@@ -73,7 +73,7 @@ class heatingSpider(scrapy.Spider):
         
         for sel in response.xpath('//tr'):
             item = heatingItem()
-            #item['price'] = sel.xpath('a/span[@class="price"]/text()').extract()
+            #item['price'] = sel.xpath('a/span[@class="price"]/text()').extract() #uses div in response.xpath
             item['title'] = sel.xpath('td[@class="cta"]/a/img[@class="btn-cta-shop"]/@alt').extract()
             item['linkwithprice'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/@href').extract()
             #time.sleep(self._time_to_wait())
