@@ -14,9 +14,71 @@ class heatingSpider(scrapy.Spider):
     # obtained from snippet luerichs Scraper Thread   
     def _time_to_wait(self):
         return random.uniform(.5, 1.5)
+    
         
+    # third version from main page to subpages
+    def parse(self, response):
+        for href in response.css("td.va-middle >  a::attr('href')"):    
+            url = response.urljoin(href.extract())
+            yield scrapy.Request(url, callback=self.parse_dir_contents)
         
-    #===========================================================================
+        next_page = response.css("div.inner > a.page-next::attr('href')")
+        if next_page:
+            url = response.urljoin(next_page[0].extract())
+            yield scrapy.Request(url, self.parse)
+   
+    
+    def parse_dir_contents(self, response): 
+        
+        for sel in response.xpath('//tr'):
+            item = heatingItem()  
+            item['title'] = sel.xpath('td[@class="cta"]/a/img[@class="btn-cta-shop"]/@alt').extract()
+            item['linkwithprice'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/@href').extract()
+            #time.sleep(self._time_to_wait())
+            # sleep time# http://stackoverflow.com/a/28105362/5061417 
+            yield item
+            
+        next_page_sub = response.css("div.pagination > div.inner > a.page-next::attr('href')")
+        if next_page_sub:
+            url = response.urljoin(next_page_sub[0].extract())
+            yield scrapy.Request(url, self.parse_dir_contents)
+
+
+## wie gehe ich die Auswahlkriterien durch?
+
+
+
+            #item['title'] = sel.xpath('h1[@class="heading-1"]/text()').extract()
+            #===================================================================
+            # # title seems to be in a child node sometimes, read this: http://stackoverflow.com/questions/18433376/xpath-select-certain-child-nodes
+            # # use selenium and downloader middleware: http://stackoverflow.com/a/31140474/5061417
+            # ## item['longtitle'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/script[@type="text/javascript"]/following-sibling::*').extract()
+            # ## item['longtitle'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/script[@type="text/javascript"]/node()').extract()
+            # ## item['longtitle'] = sel.xpath('td[@class="title"]/text()[0]').extract()
+            # ## item['longtitle'] = sel.xpath('td[@class="title"]/node()').extract()
+            # ## item['longtitle'] = sel.xpath('td[@class="title"]/text()').extract()
+            # ## item['longtitle'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/node()').extract()
+            # ## item['longtitle'] = sel.xpath('td[@class="title"]/a[2]').extract()
+            # ## item['longtitle'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/*').extract()
+            # ## item['longtitle'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/script[@type="text/javascript"]/text()').extract()
+            # ## item['longtitle'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/text()[5]').extract()
+            # ## item['longtitle'] = u' ,'.join(sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/descendant-or-self::*[not(self::script)]/text()').extract())
+            # ## item['longtitle'] = u' ,'.join(sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/text()').extract())
+            #===================================================================
+
+        #=======================================================================
+        # for sel in response.xpath('//tr'):
+        #     item = heatingItem()
+        #     item['title'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/text()').extract()
+        #     item['linkwithprice'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/@href').extract()
+        #=======================================================================
+
+
+        #item['price'] = sel.xpath('a/span[@class="price"]/text()').extract() #uses div in response.xpath
+
+        #        for href in response.css("ul.directory.dir-col > li > a::attr('href')"):
+
+            #===========================================================================
     # first version from tutorial
     # def parse(self, response):
     #     for sel in response.xpath('//td'):
@@ -46,64 +108,3 @@ class heatingSpider(scrapy.Spider):
     #     
     #     
     #===========================================================================
-        
-    # third version from main page to subpages
-    def parse(self, response):
-#        for href in response.css("ul.directory.dir-col > li > a::attr('href')"):
-        for href in response.css("td.va-middle >  a::attr('href')"):    
-            url = response.urljoin(href.extract())
-            yield scrapy.Request(url, callback=self.parse_dir_contents)
-        
-        next_page = response.css("div.inner > a::attr('href')")
-        if next_page:
-            url = response.urljoin(next_page[0].extract())
-            yield scrapy.Request(url, self.parse)
-   
-    
-    def parse_dir_contents(self, response):
-        
-        #=======================================================================
-        # for sel in response.xpath('//tr'):
-        #     item = heatingItem()
-        #     item['title'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/text()').extract()
-        #     item['linkwithprice'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/@href').extract()
-        #=======================================================================
-
-        
-        
-        for sel in response.xpath('//tr'):
-            item = heatingItem()
-            #item['price'] = sel.xpath('a/span[@class="price"]/text()').extract() #uses div in response.xpath
-            item['title'] = sel.xpath('td[@class="cta"]/a/img[@class="btn-cta-shop"]/@alt').extract()
-            item['linkwithprice'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/@href').extract()
-            #time.sleep(self._time_to_wait())
-            # sleep time# http://stackoverflow.com/a/28105362/5061417 
-            yield item
-            
-        next_page = response.css("div.pagination > div.inner > a::attr('href')")
-        if next_page:
-            url = response.urljoin(next_page[0].extract())
-            yield scrapy.Request(url, self.parse_dir_contents)
-
-
-## wie gehe ich die Auswahlkriterien durch?
-
-
-
-            #item['title'] = sel.xpath('h1[@class="heading-1"]/text()').extract()
-            #===================================================================
-            # # title seems to be in a child node sometimes, read this: http://stackoverflow.com/questions/18433376/xpath-select-certain-child-nodes
-            # # use selenium and downloader middleware: http://stackoverflow.com/a/31140474/5061417
-            # ## item['longtitle'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/script[@type="text/javascript"]/following-sibling::*').extract()
-            # ## item['longtitle'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/script[@type="text/javascript"]/node()').extract()
-            # ## item['longtitle'] = sel.xpath('td[@class="title"]/text()[0]').extract()
-            # ## item['longtitle'] = sel.xpath('td[@class="title"]/node()').extract()
-            # ## item['longtitle'] = sel.xpath('td[@class="title"]/text()').extract()
-            # ## item['longtitle'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/node()').extract()
-            # ## item['longtitle'] = sel.xpath('td[@class="title"]/a[2]').extract()
-            # ## item['longtitle'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/*').extract()
-            # ## item['longtitle'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/script[@type="text/javascript"]/text()').extract()
-            # ## item['longtitle'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/text()[5]').extract()
-            # ## item['longtitle'] = u' ,'.join(sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/descendant-or-self::*[not(self::script)]/text()').extract())
-            # ## item['longtitle'] = u' ,'.join(sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/text()').extract())
-            #===================================================================
