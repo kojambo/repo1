@@ -16,16 +16,17 @@ class heatingPipeline(object):
             item['categoryId'] = urlparse.parse_qs(parsed.query)['categoryId']  
             item['productid'] = urlparse.parse_qs(parsed.query)['productid']    
             item['sid'] = urlparse.parse_qs(parsed.query)['sid']
-            #item['title'] =  str.split("kaufen")[0]
-            str = item['title'][0]
-            if str.count("kaufen") > 0:
-                item['title'] =  str[:str.index(" kaufen")]
-            if  str.count("bestellen") > 0:
-                item['title'] =  str[:str.index(" bestellen")]
-            if str.count("versand") > 0:
-                item['title'] =  str[:str.index(" versand")]
+            if item['desc']:
+                item['desc']  = item['desc'][0].replace('\n',' ')
+            title_str = item['title'][0]
+            if title_str.count("kaufen") > 0:
+                item['title'] =  title_str[:title_str.index(" kaufen")]
+            if  title_str.count("bestellen") > 0:
+                item['title'] =  title_str[:title_str.index(" bestellen")]
+            if title_str.count("versand") > 0:
+                item['title'] =  title_str[:title_str.index(" versand")]
                 
-            #item['title'] =  str[:str.index("kaufen")]
+            #item['title'] =  title_str[:title_str.index("kaufen")]
             
             return item
         else:

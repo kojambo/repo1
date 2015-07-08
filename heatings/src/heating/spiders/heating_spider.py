@@ -8,12 +8,15 @@ class heatingSpider(scrapy.Spider):
     name = "heating"
     allowed_domains = ["idealo.de"]
     start_urls = [
-        "http://www.idealo.de/preisvergleich/ProductCategory/18406F1529515-1898979.html?param.alternativeView=true&param.resultlist.count=50"
+                  "http://www.idealo.de/preisvergleich/ProductCategory/18406F1759451.html?param.alternativeView=true&param.resultlist.count=50"
     ]
+
+#        "http://www.idealo.de/preisvergleich/ProductCategory/18406F1529515-1898979.html?param.alternativeView=true&param.resultlist.count=50"
+
     # calculate random sleep time
     # obtained from snippet luerichs Scraper Thread   
     def _time_to_wait(self):
-        return random.uniform(.5, 1.5)
+        return random.uniform(.1, 3)
     
         
     # third version from main page to subpages
@@ -33,8 +36,9 @@ class heatingSpider(scrapy.Spider):
         for sel in response.xpath('//tr'):
             item = heatingItem()  
             item['title'] = sel.xpath('td[@class="cta"]/a/img[@class="btn-cta-shop"]/@alt').extract()
+            item['desc'] = sel.xpath('td/a[@class="offer-title link-2 webtrekk wt-prompt"]/text()').extract()
             item['linkwithprice'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/@href').extract()
-            #time.sleep(self._time_to_wait())
+            time.sleep(self._time_to_wait())
             # sleep time# http://stackoverflow.com/a/28105362/5061417 
             yield item
             
