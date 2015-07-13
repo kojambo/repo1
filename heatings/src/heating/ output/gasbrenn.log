@@ -1,0 +1,1361 @@
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 994, Jun\xadkers SK 160-5 ZB, Jun\xadkers Schacht 4 Me\xadter...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481847904.html?categoryId=18406&pos=11&price=4220.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4220.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers 42 kw'}
+2015-07-09 05:43:30 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1155_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 120, Mon\xadta\xadge\xadplat\xadte 994, Jun\xadkers SK 160-5 ZB, Jun\xadkers Schacht 8 Me\xadter...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481848000.html?categoryId=18406&pos=12&price=4220.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4220.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers 42 kw'}
+2015-07-09 05:43:32 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1155_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 993, Jun\xadkers SK 200-5 ZB, ATEC Schacht 6 Me\xadter...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481847784.html?categoryId=18406&pos=13&price=4220.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4220.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers 42 kw'}
+2015-07-09 05:43:33 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1155_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 993, Jun\xadkers SK 160-5 ZB, Jun\xadkers Schacht 4 Me\xadter...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481848160.html?categoryId=18406&pos=14&price=4225.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4225.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers 42 kw'}
+2015-07-09 05:43:36 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1155_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 120, Mon\xadta\xadge\xadplat\xadte 993, Jun\xadkers SK 160-5 ZB, Jun\xadkers Schacht 8 Me\xadter...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481847887.html?categoryId=18406&pos=15&price=4225.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4225.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers 42 kw'}
+2015-07-09 05:43:36 [scrapy] DEBUG: Crawled (200) <GET http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1170_-ecotec-exclusiv-vc-146-4-7-vaillant.html#Angebote> (referer: http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1155_-ecotec-exclusiv-vc-146-4-7-vaillant.html) ['partial']
+2015-07-09 05:43:37 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:43:37 [scrapy] INFO: Crawled 638 pages (at 1 pages/min), scraped 6206 items (at 30 items/min)
+2015-07-09 05:43:40 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:43:40 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:43:43 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:43:43 [scrapy] DEBUG: Crawled (200) <GET http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1170_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html#Angebote> (referer: http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1155_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html) ['partial']
+2015-07-09 05:43:45 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:43:47 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:43:48 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:43:51 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:43:52 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:43:55 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:43:57 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:44:00 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:44:01 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:44:03 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:44:04 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:44:06 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:44:07 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:44:07 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:44:09 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:44:10 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1170_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ca\xadlor\xadMA\xadTIC 470f, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Flach\xaddach schwarz 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959693.html?categoryId=18406&pos=1&price=3900.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3900.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant eco TEC 146 4 7'}
+2015-07-09 05:44:12 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:44:14 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1170_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ca\xadlor\xadMA\xadTIC 470f, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schr\xe4gdach schwarz 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958309.html?categoryId=18406&pos=2&price=3905.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3905.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant eco TEC 146 4 7'}
+2015-07-09 05:44:15 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:44:17 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1170_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ca\xadlor\xadMA\xadTIC 470f, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schr\xe4gdach rot 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957605.html?categoryId=18406&pos=3&price=3905.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3905.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant eco TEC 146 4 7'}
+2015-07-09 05:44:19 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:44:21 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1170_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ca\xadlor\xadMA\xadTIC 470f, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schr\xe4gdach rot 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957577.html?categoryId=18406&pos=4&price=3905.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3905.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant eco TEC 146 4 7'}
+2015-07-09 05:44:21 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:44:23 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1170_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ca\xadlor\xadMA\xadTIC 470f, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schr\xe4gdach schwarz 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957704.html?categoryId=18406&pos=5&price=3905.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3905.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant eco TEC 146 4 7'}
+2015-07-09 05:44:24 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:44:25 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1170_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant Paket 1.131 ecoTEC ex\xadclu\xadsiv VC 656/4-7, 630/3, E/H Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959081.html?categoryId=18406&pos=6&price=3909.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3909.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant eco TEC 146 4 7'}
+2015-07-09 05:44:27 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:44:28 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1170_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant Paket 1.132 ecoTEC ex\xadclu\xadsiv VC 656/4-7, 630/3, L/LL Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959336.html?categoryId=18406&pos=7&price=3909.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3909.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant eco TEC 146 4 7'}
+2015-07-09 05:44:31 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1170_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 994, Jun\xadkers AZB10 Dach rot 80/125, Jun\xadkers SK 200-5 ...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481847421.html?categoryId=18406&pos=1&price=4225.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4225.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers ZBR 42 3 A23'}
+2015-07-09 05:44:33 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1170_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 466/4-7 Brenn\xadwert\xadther\xadme ca\xadlor\xadMA\xadTIC 470f, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957844.html?categoryId=18406&pos=8&price=3920.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3920.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant eco TEC 146 4 7'}
+2015-07-09 05:44:35 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1170_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Jun\xadkers SK 160-5 ZB, Mon\xadta\xadge\xadplat\xadte 258 + 528-1 (Auf\xadputz), Jun\xadkers...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481848311.html?categoryId=18406&pos=2&price=4230.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4230.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers ZBR 42 3 A23'}
+2015-07-09 05:44:36 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1170_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 466/4-7 Brenn\xadwert\xadther\xadme ohne, au\xadro\xadMA\xadTIC 620/3, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958140.html?categoryId=18406&pos=9&price=3929.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3929.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant eco TEC 146 4 7'}
+2015-07-09 05:44:38 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1170_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 993, Jun\xadkers AZB10 Dach rot 80/125, Jun\xadkers SK 200-5 ...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481848019.html?categoryId=18406&pos=3&price=4230.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4230.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers ZBR 42 3 A23'}
+2015-07-09 05:44:38 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1170_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 466/4-7 Brenn\xadwert\xadther\xadme au\xadro\xadMA\xadTIC 620/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957362.html?categoryId=18406&pos=10&price=3954.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3954.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant eco TEC 146 4 7'}
+2015-07-09 05:44:38 [scrapy] INFO: Crawled 639 pages (at 1 pages/min), scraped 6219 items (at 13 items/min)
+2015-07-09 05:44:40 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1170_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 993, Jun\xadkers AZB09 Dach schwarz 80/125, Jun\xadkers SK...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481847557.html?categoryId=18406&pos=4&price=4230.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4230.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers ZBR 42 3 A23'}
+2015-07-09 05:44:41 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1170_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 466/4-7 Brenn\xadwert\xadther\xadme ohne, au\xadro\xadMA\xadTIC 620/3, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958370.html?categoryId=18406&pos=11&price=3969.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3969.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant eco TEC 146 4 7'}
+2015-07-09 05:44:42 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1170_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 120, Mon\xadta\xadge\xadplat\xadte 258, Jun\xadkers Schacht 8 Meter 80/125, Jun\xadkers SK...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481847656.html?categoryId=18406&pos=5&price=4230.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4230.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers ZBR 42 3 A23'}
+2015-07-09 05:44:44 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1170_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ohne, ca\xadlor\xadMA\xadTIC 630/3, Flach\xaddach rot 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959284.html?categoryId=18406&pos=12&price=3974.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3974.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant eco TEC 146 4 7'}
+2015-07-09 05:44:47 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1170_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 994, Jun\xadkers SK 200-5 ZB, ATEC Schacht 8 Me\xadter...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481847625.html?categoryId=18406&pos=6&price=4235.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4235.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers ZBR 42 3 A23'}
+2015-07-09 05:44:48 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1170_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H au\xadro\xadMA\xadTIC 620/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Flach\xaddach schwarz 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958325.html?categoryId=18406&pos=13&price=3974.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3974.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant eco TEC 146 4 7'}
+2015-07-09 05:44:48 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1170_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 258 + 528-1 (Auf\xadputz), Jun\xadkers SK 200-5 ZB, ATEC...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481847624.html?categoryId=18406&pos=7&price=4235.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4235.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers ZBR 42 3 A23'}
+2015-07-09 05:44:51 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1170_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+C+D+E, Flach\xaddach rot 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958291.html?categoryId=18406&pos=14&price=3974.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3974.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant eco TEC 146 4 7'}
+2015-07-09 05:44:53 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1170_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 994, Jun\xadkers ST 120-5 Z, Jun\xadkers Schacht 10 Me\xadter...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481847684.html?categoryId=18406&pos=8&price=4240.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4240.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers ZBR 42 3 A23'}
+2015-07-09 05:44:54 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1170_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ohne, ca\xadlor\xadMA\xadTIC 630/3, Flach\xaddach schwarz 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958391.html?categoryId=18406&pos=15&price=3974.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3974.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant eco TEC 146 4 7'}
+2015-07-09 05:44:55 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1170_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 120, Mon\xadta\xadge\xadplat\xadte 994, Jun\xadkers SK 160-5 ZB, Jun\xadkers Schacht 10 Me\xadter...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481848101.html?categoryId=18406&pos=9&price=4245.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4245.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers ZBR 42 3 A23'}
+2015-07-09 05:44:56 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1170_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 993, Jun\xadkers ST 120-5 Z, Jun\xadkers Schacht 10 Me\xadter...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481848244.html?categoryId=18406&pos=10&price=4245.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4245.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers ZBR 42 3 A23'}
+2015-07-09 05:44:59 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1170_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Jun\xadkers SK 160-5 ZB, Mon\xadta\xadge\xadplat\xadte 258 + 223-1 (Un\xadter\xadputz),...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481847760.html?categoryId=18406&pos=11&price=4250.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4250.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers ZBR 42 3 A23'}
+2015-07-09 05:44:59 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1170_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 994, Jun\xadkers SK 200-5 ZB, ATEC Schacht 10 Me\xadter...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481847627.html?categoryId=18406&pos=12&price=4255.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4255.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers ZBR 42 3 A23'}
+2015-07-09 05:45:00 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1170_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Jun\xadkers SK 160-5 ZB, Mon\xadta\xadge\xadplat\xadte 258 + 528-1 (Auf\xadputz), Jun\xadkers...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481847423.html?categoryId=18406&pos=13&price=4255.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4255.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers ZBR 42 3 A23'}
+2015-07-09 05:45:03 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1170_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 993, Jun\xadkers SK 160-5 ZB, Jun\xadkers Schacht 8 Me\xadter...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481847587.html?categoryId=18406&pos=14&price=4280.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4280.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers ZBR 42 3 A23'}
+2015-07-09 05:45:06 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1170_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 258, Jun\xadkers Schacht 8 Meter 80/125, Jun\xadkers SK...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481848283.html?categoryId=18406&pos=15&price=4285.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4285.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers ZBR 42 3 A23'}
+2015-07-09 05:45:06 [scrapy] DEBUG: Crawled (200) <GET http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1185_-ecotec-exclusiv-vc-146-4-7-vaillant.html#Angebote> (referer: http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1170_-ecotec-exclusiv-vc-146-4-7-vaillant.html) ['partial']
+2015-07-09 05:45:09 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:09 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:10 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:12 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:12 [scrapy] DEBUG: Crawled (200) <GET http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1185_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html#Angebote> (referer: http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1170_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html) ['partial']
+2015-07-09 05:45:13 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:14 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:17 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:19 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:21 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:21 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:23 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:25 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:25 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:26 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:27 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:29 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:31 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:31 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:34 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:35 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1185_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H au\xadro\xadMA\xadTIC 620/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Flach\xaddach rot 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958109.html?categoryId=18406&pos=1&price=3974.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3974.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC VC 146 4 7'}
+2015-07-09 05:45:36 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:36 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1185_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+C+D+E, Flach\xaddach schwarz 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958216.html?categoryId=18406&pos=2&price=3974.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3974.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC VC 146 4 7'}
+2015-07-09 05:45:39 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:39 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1185_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ohne, ca\xadlor\xadMA\xadTIC 630/3, Flach\xaddach rot 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957226.html?categoryId=18406&pos=3&price=3974.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3974.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC VC 146 4 7'}
+2015-07-09 05:45:39 [scrapy] INFO: Crawled 641 pages (at 2 pages/min), scraped 6239 items (at 20 items/min)
+2015-07-09 05:45:40 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:43 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1185_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+C+D+E, Flach\xaddach schwarz 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959759.html?categoryId=18406&pos=4&price=3974.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3974.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC VC 146 4 7'}
+2015-07-09 05:45:44 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:46 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1185_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL au\xadro\xadMA\xadTIC 620/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Flach\xaddach rot 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959708.html?categoryId=18406&pos=5&price=3974.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3974.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC VC 146 4 7'}
+2015-07-09 05:45:48 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:50 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1185_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL au\xadro\xadMA\xadTIC 620/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Flach\xaddach schwarz 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959645.html?categoryId=18406&pos=6&price=3974.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3974.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC VC 146 4 7'}
+2015-07-09 05:45:51 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:45:52 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1185_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+C+D+E, Flach\xaddach rot 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959659.html?categoryId=18406&pos=7&price=3974.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3974.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC VC 146 4 7'}
+2015-07-09 05:45:53 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1185_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 993, Jun\xadkers SK 160-5 ZB, Jun\xadkers Schacht 10 Me\xadter...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481847574.html?categoryId=18406&pos=1&price=4305.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4305.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers CerapurComfort ZBR 42-3A23'}
+2015-07-09 05:45:54 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1185_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ohne, ca\xadlor\xadMA\xadTIC 630/3, Flach\xaddach schwarz 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959415.html?categoryId=18406&pos=8&price=3974.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3974.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC VC 146 4 7'}
+2015-07-09 05:45:56 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1185_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 258 + 528-1 (Auf\xadputz), Jun\xadkers Schacht 4 Me\xadter...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481847644.html?categoryId=18406&pos=2&price=4315.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4315.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers CerapurComfort ZBR 42-3A23'}
+2015-07-09 05:45:58 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1185_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+C+D+E, Schr\xe4gdach schwarz 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958377.html?categoryId=18406&pos=9&price=3979.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3979.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC VC 146 4 7'}
+2015-07-09 05:46:01 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1185_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 258 + 223-1 (Un\xadter\xadputz), Jun\xadkers Schacht 6 Me\xadter...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481847403.html?categoryId=18406&pos=3&price=4340.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4340.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers CerapurComfort ZBR 42-3A23'}
+2015-07-09 05:46:03 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1185_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H au\xadro\xadMA\xadTIC 620/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schr\xe4gdach rot 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958368.html?categoryId=18406&pos=10&price=3979.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3979.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC VC 146 4 7'}
+2015-07-09 05:46:04 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1185_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 258 + 528-1 (Auf\xadputz), Jun\xadkers Schacht 6 Me\xadter...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481847455.html?categoryId=18406&pos=4&price=4345.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4345.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers CerapurComfort ZBR 42-3A23'}
+2015-07-09 05:46:04 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1185_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ohne, ca\xadlor\xadMA\xadTIC 630/3, Schr\xe4gdach schwarz 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958464.html?categoryId=18406&pos=11&price=3979.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3979.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC VC 146 4 7'}
+2015-07-09 05:46:06 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1185_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 258 + 528-1 (Auf\xadputz), Jun\xadkers Schacht 8 Me\xadter...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481848184.html?categoryId=18406&pos=5&price=4370.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4370.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers CerapurComfort ZBR 42-3A23'}
+2015-07-09 05:46:06 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1185_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+C+D+E, Schr\xe4gdach rot 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957836.html?categoryId=18406&pos=12&price=3979.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3979.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC VC 146 4 7'}
+2015-07-09 05:46:09 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1185_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 993, Jun\xadkers Schacht 6 Meter 80/125, Jun\xadkers SK...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481847673.html?categoryId=18406&pos=6&price=4370.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4370.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers CerapurComfort ZBR 42-3A23'}
+2015-07-09 05:46:12 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1185_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H au\xadro\xadMA\xadTIC 620/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schr\xe4gdach schwarz 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957407.html?categoryId=18406&pos=13&price=3979.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3979.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC VC 146 4 7'}
+2015-07-09 05:46:12 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1185_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 994, Jun\xadkers Schacht 8 Meter 80/125, Jun\xadkers SK...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481848106.html?categoryId=18406&pos=7&price=4390.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4390.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers CerapurComfort ZBR 42-3A23'}
+2015-07-09 05:46:15 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1185_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ohne, ca\xadlor\xadMA\xadTIC 630/3, Schr\xe4gdach rot 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957227.html?categoryId=18406&pos=14&price=3979.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3979.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC VC 146 4 7'}
+2015-07-09 05:46:15 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1185_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 258 + 528-1 (Auf\xadputz), Jun\xadkers Schacht 10 Me\xadter...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481847851.html?categoryId=18406&pos=8&price=4395.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4395.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers CerapurComfort ZBR 42-3A23'}
+2015-07-09 05:46:18 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1185_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+C+D+E, Schr\xe4gdach rot 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959861.html?categoryId=18406&pos=15&price=3979.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3979.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC VC 146 4 7'}
+2015-07-09 05:46:20 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/1750863I-1-1185_-cerapur-comfort-zbr-42-3-a-42-kw-junkers.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Jun\xadkers Ce\xadra\xadpur\xadCom\xadfort ZBR 42-3 A 21 Gas-Brenn\xadwert\xadther\xadme 42 kW, L / LL Jun\xadkers FW 200, Mon\xadta\xadge\xadplat\xadte 993, Jun\xadkers Schacht 10 Meter 80/125, Jun\xadkers SK...',
+ 'linkwithprice': [u'/preisvergleich/Relocate/481847976.html?categoryId=18406&pos=9&price=4420.0&productid=1750863&sid=289859&type=offer'],
+ 'price': [u'4420.0'],
+ 'productid': [u'1750863'],
+ 'sid': [u'289859'],
+ 'title': u'Junkers CerapurComfort ZBR 42-3A23'}
+2015-07-09 05:46:21 [scrapy] DEBUG: Crawled (200) <GET http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1200_-ecotec-exclusiv-vc-146-4-7-vaillant.html#Angebote> (referer: http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1185_-ecotec-exclusiv-vc-146-4-7-vaillant.html) ['partial']
+2015-07-09 05:46:23 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:46:23 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:46:24 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:46:26 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:46:28 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:46:29 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:46:29 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:46:30 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:46:32 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:46:34 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:46:37 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:46:38 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:46:38 [scrapy] INFO: Crawled 642 pages (at 1 pages/min), scraped 6260 items (at 21 items/min)
+2015-07-09 05:46:40 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1200_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL au\xadro\xadMA\xadTIC 620/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schr\xe4gdach schwarz 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959754.html?categoryId=18406&pos=1&price=3979.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3979.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecotec VC146'}
+2015-07-09 05:46:41 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1200_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ohne, ca\xadlor\xadMA\xadTIC 630/3, Schr\xe4gdach rot 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959790.html?categoryId=18406&pos=2&price=3979.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3979.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecotec VC146'}
+2015-07-09 05:46:43 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1200_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ohne, ca\xadlor\xadMA\xadTIC 630/3, Schr\xe4gdach schwarz 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959621.html?categoryId=18406&pos=3&price=3979.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3979.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecotec VC146'}
+2015-07-09 05:46:44 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1200_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+C+D+E, Schr\xe4gdach schwarz 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959622.html?categoryId=18406&pos=4&price=3979.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3979.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecotec VC146'}
+2015-07-09 05:46:44 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1200_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL au\xadro\xadMA\xadTIC 620/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schr\xe4gdach rot 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959365.html?categoryId=18406&pos=5&price=3979.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3979.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecotec VC146'}
+2015-07-09 05:46:45 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1200_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 466/4-7 Brenn\xadwert\xadther\xadme au\xadro\xadMA\xadTIC 620/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957207.html?categoryId=18406&pos=6&price=3994.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3994.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecotec VC146'}
+2015-07-09 05:46:47 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1200_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant Paket 1.70 ecoTEC ex\xadclu\xadsiv VC 276/4-7, 620/3, VIH S 500 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957230.html?categoryId=18406&pos=7&price=3999.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'3999.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecotec VC146'}
+2015-07-09 05:46:48 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1200_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ca\xadlor\xadMA\xadTIC 470f, ohne, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958350.html?categoryId=18406&pos=8&price=4000.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4000.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecotec VC146'}
+2015-07-09 05:46:48 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1200_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ca\xadlor\xadMA\xadTIC 470f, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+C+D+E, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958213.html?categoryId=18406&pos=9&price=4000.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4000.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecotec VC146'}
+2015-07-09 05:46:50 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1200_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ca\xadlor\xadMA\xadTIC 470f, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+C+D+E, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957482.html?categoryId=18406&pos=10&price=4000.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4000.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecotec VC146'}
+2015-07-09 05:46:52 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1200_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ca\xadlor\xadMA\xadTIC 470f, ohne, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957633.html?categoryId=18406&pos=11&price=4000.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4000.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecotec VC146'}
+2015-07-09 05:46:54 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1200_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 466/4-7 Brenn\xadwert\xadther\xadme ohne, ca\xadlor\xadMA\xadTIC 630/3, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958432.html?categoryId=18406&pos=12&price=4029.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4029.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecotec VC146'}
+2015-07-09 05:46:56 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1200_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ca\xadlor\xadMA\xadTIC 470f, ohne, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957984.html?categoryId=18406&pos=13&price=4045.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4045.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecotec VC146'}
+2015-07-09 05:46:58 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1200_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ca\xadlor\xadMA\xadTIC 470f, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+C+D+E, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958238.html?categoryId=18406&pos=14&price=4045.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4045.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecotec VC146'}
+2015-07-09 05:46:59 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1200_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ca\xadlor\xadMA\xadTIC 470f, ohne, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958195.html?categoryId=18406&pos=15&price=4045.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4045.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecotec VC146'}
+2015-07-09 05:47:00 [scrapy] DEBUG: Crawled (200) <GET http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1215_-ecotec-exclusiv-vc-146-4-7-vaillant.html#Angebote> (referer: http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1200_-ecotec-exclusiv-vc-146-4-7-vaillant.html) ['partial']
+2015-07-09 05:47:02 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:47:04 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:47:07 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:47:09 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:47:12 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:47:14 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:47:15 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:47:15 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:47:16 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:47:19 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:47:19 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:47:20 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:47:21 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1215_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ca\xadlor\xadMA\xadTIC 470f, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+C+D+E, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957617.html?categoryId=18406&pos=1&price=4045.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4045.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC146 exclusiv'}
+2015-07-09 05:47:22 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1215_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 466/4-7 Brenn\xadwert\xadther\xadme ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957954.html?categoryId=18406&pos=2&price=4054.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4054.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC146 exclusiv'}
+2015-07-09 05:47:23 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1215_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 466/4-7 Brenn\xadwert\xadther\xadme ohne, ca\xadlor\xadMA\xadTIC 630/3, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957287.html?categoryId=18406&pos=3&price=4069.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4069.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC146 exclusiv'}
+2015-07-09 05:47:25 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1215_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Flach\xaddach schwarz 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957857.html?categoryId=18406&pos=4&price=4074.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4074.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC146 exclusiv'}
+2015-07-09 05:47:27 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1215_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H au\xadro\xadMA\xadTIC 620/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+C+D+E, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958171.html?categoryId=18406&pos=5&price=4074.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4074.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC146 exclusiv'}
+2015-07-09 05:47:29 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1215_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Flach\xaddach rot 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958161.html?categoryId=18406&pos=6&price=4074.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4074.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC146 exclusiv'}
+2015-07-09 05:47:31 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1215_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ohne, au\xadro\xadMA\xadTIC 620/3, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957442.html?categoryId=18406&pos=7&price=4074.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4074.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC146 exclusiv'}
+2015-07-09 05:47:32 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1215_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ohne, au\xadro\xadMA\xadTIC 620/3, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959780.html?categoryId=18406&pos=8&price=4074.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4074.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC146 exclusiv'}
+2015-07-09 05:47:35 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1215_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Flach\xaddach rot 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959655.html?categoryId=18406&pos=9&price=4074.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4074.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC146 exclusiv'}
+2015-07-09 05:47:37 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1215_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Flach\xaddach schwarz 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959513.html?categoryId=18406&pos=10&price=4074.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4074.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC146 exclusiv'}
+2015-07-09 05:47:37 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1215_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL au\xadro\xadMA\xadTIC 620/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+C+D+E, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959542.html?categoryId=18406&pos=11&price=4074.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4074.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC146 exclusiv'}
+2015-07-09 05:47:37 [scrapy] INFO: Crawled 643 pages (at 1 pages/min), scraped 6286 items (at 26 items/min)
+2015-07-09 05:47:38 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1215_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schr\xe4gdach rot 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957592.html?categoryId=18406&pos=12&price=4079.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4079.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC146 exclusiv'}
+2015-07-09 05:47:40 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1215_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schr\xe4gdach schwarz 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957759.html?categoryId=18406&pos=13&price=4079.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4079.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC146 exclusiv'}
+2015-07-09 05:47:42 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1215_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schr\xe4gdach schwarz 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959370.html?categoryId=18406&pos=14&price=4079.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4079.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC146 exclusiv'}
+2015-07-09 05:47:43 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1215_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schr\xe4gdach rot 80/125 Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959346.html?categoryId=18406&pos=15&price=4079.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4079.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC146 exclusiv'}
+2015-07-09 05:47:44 [scrapy] DEBUG: Crawled (200) <GET http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1230_-ecotec-exclusiv-vc-146-4-7-vaillant.html#Angebote> (referer: http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1215_-ecotec-exclusiv-vc-146-4-7-vaillant.html) ['partial']
+2015-07-09 05:47:46 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:47:46 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:47:48 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:47:50 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:47:53 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:47:54 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:47:56 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:47:56 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:47:58 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:48:01 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:48:03 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:48:05 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:48:05 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1230_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 466/4-7 Brenn\xadwert\xadther\xadme ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957712.html?categoryId=18406&pos=1&price=4094.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4094.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC exklusiv VC146/4-7'}
+2015-07-09 05:48:06 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1230_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ca\xadlor\xadMA\xadTIC 470f, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957693.html?categoryId=18406&pos=2&price=4100.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4100.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC exklusiv VC146/4-7'}
+2015-07-09 05:48:08 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1230_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ca\xadlor\xadMA\xadTIC 470f, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959554.html?categoryId=18406&pos=3&price=4100.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4100.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC exklusiv VC146/4-7'}
+2015-07-09 05:48:09 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1230_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL au\xadro\xadMA\xadTIC 620/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+C+D+E, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959266.html?categoryId=18406&pos=4&price=4119.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4119.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC exklusiv VC146/4-7'}
+2015-07-09 05:48:10 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1230_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H au\xadro\xadMA\xadTIC 620/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+C+D+E, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957278.html?categoryId=18406&pos=5&price=4119.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4119.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC exklusiv VC146/4-7'}
+2015-07-09 05:48:12 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1230_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ohne, au\xadro\xadMA\xadTIC 620/3, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957571.html?categoryId=18406&pos=6&price=4119.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4119.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC exklusiv VC146/4-7'}
+2015-07-09 05:48:13 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1230_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ohne, au\xadro\xadMA\xadTIC 620/3, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959386.html?categoryId=18406&pos=7&price=4119.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4119.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC exklusiv VC146/4-7'}
+2015-07-09 05:48:14 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1230_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ca\xadlor\xadMA\xadTIC 470f, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958237.html?categoryId=18406&pos=8&price=4145.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4145.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC exklusiv VC146/4-7'}
+2015-07-09 05:48:14 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1230_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ca\xadlor\xadMA\xadTIC 470f, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957332.html?categoryId=18406&pos=9&price=4145.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4145.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC exklusiv VC146/4-7'}
+2015-07-09 05:48:15 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1230_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+C+D+E, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957765.html?categoryId=18406&pos=10&price=4174.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4174.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC exklusiv VC146/4-7'}
+2015-07-09 05:48:17 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1230_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H au\xadro\xadMA\xadTIC 620/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957949.html?categoryId=18406&pos=11&price=4174.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4174.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC exklusiv VC146/4-7'}
+2015-07-09 05:48:18 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1230_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ohne, ca\xadlor\xadMA\xadTIC 630/3, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958227.html?categoryId=18406&pos=12&price=4174.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4174.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC exklusiv VC146/4-7'}
+2015-07-09 05:48:19 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1230_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+C+D+E, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959838.html?categoryId=18406&pos=13&price=4174.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4174.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC exklusiv VC146/4-7'}
+2015-07-09 05:48:21 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1230_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ohne, ca\xadlor\xadMA\xadTIC 630/3, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959586.html?categoryId=18406&pos=14&price=4174.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4174.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC exklusiv VC146/4-7'}
+2015-07-09 05:48:23 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1230_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL au\xadro\xadMA\xadTIC 620/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959320.html?categoryId=18406&pos=15&price=4174.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4174.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant ecoTEC exklusiv VC146/4-7'}
+2015-07-09 05:48:24 [scrapy] DEBUG: Crawled (200) <GET http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1245_-ecotec-exclusiv-vc-146-4-7-vaillant.html#Angebote> (referer: http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1230_-ecotec-exclusiv-vc-146-4-7-vaillant.html) ['partial']
+2015-07-09 05:48:24 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:48:26 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:48:28 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:48:30 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:48:32 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:48:34 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:48:35 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:48:35 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:48:36 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:48:39 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:48:39 [scrapy] INFO: Crawled 645 pages (at 2 pages/min), scraped 6305 items (at 19 items/min)
+2015-07-09 05:48:40 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:48:41 [scrapy] WARNING: Dropped: Leer
+
+{'desc': [], 'linkwithprice': [], 'title': []}
+2015-07-09 05:48:43 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1245_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+C+D+E, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957821.html?categoryId=18406&pos=1&price=4219.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4219.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC 146 exclusiv'}
+2015-07-09 05:48:45 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1245_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H au\xadro\xadMA\xadTIC 620/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958131.html?categoryId=18406&pos=2&price=4219.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4219.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC 146 exclusiv'}
+2015-07-09 05:48:48 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1245_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ohne, ca\xadlor\xadMA\xadTIC 630/3, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958231.html?categoryId=18406&pos=3&price=4219.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4219.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC 146 exclusiv'}
+2015-07-09 05:48:49 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1245_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ohne, ca\xadlor\xadMA\xadTIC 630/3, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959656.html?categoryId=18406&pos=4&price=4219.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4219.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC 146 exclusiv'}
+2015-07-09 05:48:51 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1245_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL au\xadro\xadMA\xadTIC 620/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959389.html?categoryId=18406&pos=5&price=4219.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4219.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC 146 exclusiv'}
+2015-07-09 05:48:54 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1245_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+C+D+E, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959327.html?categoryId=18406&pos=6&price=4219.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4219.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC 146 exclusiv'}
+2015-07-09 05:48:56 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1245_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959117.html?categoryId=18406&pos=7&price=4274.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4274.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC 146 exclusiv'}
+2015-07-09 05:48:58 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1245_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schacht\xadein\xadbau 80/125 7.5m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475958267.html?categoryId=18406&pos=8&price=4274.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4274.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC 146 exclusiv'}
+2015-07-09 05:49:01 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1245_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, E / H ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475957720.html?categoryId=18406&pos=9&price=4319.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4319.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC 146 exclusiv'}
+2015-07-09 05:49:02 [scrapy] DEBUG: Scraped from <200 http://www.idealo.de/preisvergleich/OffersOfProduct/2286143I-1-1245_-ecotec-exclusiv-vc-146-4-7-vaillant.html>
+
+{'categoryId': [u'18406'],
+ 'desc': u' Vail\xadlant ecoTEC ex\xadclu\xadsiv VC 656/4-7 Brenn\xadwert\xadther\xadme, L/LL ca\xadlor\xadMA\xadTIC 630/3, Zu\xadbe\xadh\xf6r\xadpa\xadket A+B+F, Schacht\xadein\xadbau 80/125 10m Vail\xadlant',
+ 'linkwithprice': [u'/preisvergleich/Relocate/475959502.html?categoryId=18406&pos=10&price=4319.0&productid=2286143&sid=289859&type=offer'],
+ 'price': [u'4319.0'],
+ 'productid': [u'2286143'],
+ 'sid': [u'289859'],
+ 'title': u'Vaillant VC 146 exclusiv'}
+2015-07-09 05:49:02 [scrapy] INFO: Closing spider (finished)
+2015-07-09 05:49:02 [scrapy] INFO: Stored csv feed (6315 items) in:  output/gasbrenn.csv
+2015-07-09 05:49:02 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 123,
+ 'downloader/exception_type_count/twisted.internet.error.TCPTimedOutError': 28,
+ 'downloader/exception_type_count/twisted.internet.error.TimeoutError': 89,
+ 'downloader/exception_type_count/twisted.web._newclient.ResponseNeverReceived': 6,
+ 'downloader/request_bytes': 400334,
+ 'downloader/request_count': 768,
+ 'downloader/request_method_count/GET': 768,
+ 'downloader/response_bytes': 61581604,
+ 'downloader/response_count': 645,
+ 'downloader/response_status_count/200': 645,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2015, 7, 9, 3, 49, 2, 691000),
+ 'item_dropped_count': 8128,
+ 'item_dropped_reasons_count/DropItem': 8128,
+ 'item_scraped_count': 6315,
+ 'log_count/DEBUG': 7084,
+ 'log_count/ERROR': 5,
+ 'log_count/INFO': 380,
+ 'log_count/WARNING': 8128,
+ 'request_depth_max': 84,
+ 'response_received_count': 645,
+ 'scheduler/dequeued': 768,
+ 'scheduler/dequeued/memory': 768,
+ 'scheduler/enqueued': 768,
+ 'scheduler/enqueued/memory': 768,
+ 'start_time': datetime.datetime(2015, 7, 8, 21, 36, 37, 569000)}
+2015-07-09 05:49:02 [scrapy] INFO: Spider closed (finished)
