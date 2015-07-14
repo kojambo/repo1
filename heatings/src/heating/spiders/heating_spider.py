@@ -9,7 +9,7 @@ class heatingSpider(scrapy.Spider):
     name = "heating"
     allowed_domains = ["idealo.de"]
     start_urls = [
-                  "http://www.idealo.de/preisvergleich/ProductCategory/18406F1759451.html?param.alternativeView=true&param.resultlist.count=50"
+                  "http://www.idealo.de/preisvergleich/ProductCategory/18459F1574288.html?param.alternativeView=true&param.resultlist.count=50"
     ]
 
     #===========================================================================
@@ -18,8 +18,16 @@ class heatingSpider(scrapy.Spider):
     # ]
     #===========================================================================
         
-#"http://www.idealo.de/preisvergleich/ProductCategory/18406F1759451.html?param.alternativeView=true&param.resultlist.count=50"
-#"http://www.idealo.de/preisvergleich/ProductCategory/18406F1529515-1898979.html?param.alternativeView=true&param.resultlist.count=50"
+# http://www.idealo.de/preisvergleich/ProductCategory/18406F1759451.html #oel
+# http://www.idealo.de/preisvergleich/ProductCategory/18406F1529515.html #gas
+# http://www.idealo.de/preisvergleich/ProductCategory/18406F1529521.html # holz
+# http://www.idealo.de/preisvergleich/ProductCategory/18406F1532115.html # pellets
+# http://www.idealo.de/preisvergleich/ProductCategory/18459F1574288.html # LW WP
+# http://www.idealo.de/preisvergleich/ProductCategory/18459F1783655.html # SW WP
+# http://www.idealo.de/preisvergleich/ProductCategory/18459F1574289.html # WW WP
+
+
+
 
     # calculate random sleep time
     # obtained from snippet luerichs Scraper Thread   
@@ -32,9 +40,10 @@ class heatingSpider(scrapy.Spider):
         for number,row in enumerate(response.css("td.va-middle >  a::attr('href')")):    
             url     = response.urljoin(row.extract())
             kw      = response.xpath('//td[@class="info"]/p[@class="lh-16"]/text()').re(r'rmeleistung: (.*) kW')[number]
+            info      = response.xpath('//td[@class="info"]/p[@class="lh-16"]/text()').extract()[number]
             header  = response.xpath('//td[@class="info"]/a[@class="offer-title link-2 webtrekk"]/text()').extract()[number]      
                
-            request = scrapy.Request(url, callback=self.parse_dir_contents, meta={'kw': kw, 'header': header})
+            request = scrapy.Request(url, callback=self.parse_dir_contents, meta={'kw': kw, 'header': header, 'info':info})
             yield request
                   
         next_page = response.css("div.inner > a.page-next::attr('href')")
@@ -54,6 +63,7 @@ class heatingSpider(scrapy.Spider):
         item = heatingItem()
         item['kw'] = response.meta['kw']
         item['header'] = response.meta['header']
+        item['info'] = response.meta['info']        
         for sel in response.xpath('//tr'):
             #item = heatingItem()
             #item['kw'] = sel.meta['kw']

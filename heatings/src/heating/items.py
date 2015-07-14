@@ -12,6 +12,7 @@ class heatingItem(scrapy.Item):
     # define the fields for your item here like:
     header = scrapy.Field()
     kw = scrapy.Field()
+    info = scrapy.Field()
     title = scrapy.Field()
     desc = scrapy.Field()
     linkwithprice = scrapy.Field()
