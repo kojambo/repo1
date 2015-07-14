@@ -25,6 +25,8 @@ class heatingPipeline(object):
                 item['title'] =  title_str[:title_str.index(" bestellen")]
             if title_str.count("versand") > 0:
                 item['title'] =  title_str[:title_str.index(" versand")]
+            if item['header']:
+                item['header']  = item['header'].replace('\n',' ')
                 
             #item['title'] =  title_str[:title_str.index("kaufen")]
             

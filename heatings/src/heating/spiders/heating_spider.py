@@ -9,7 +9,7 @@ class heatingSpider(scrapy.Spider):
     name = "heating"
     allowed_domains = ["idealo.de"]
     start_urls = [
-                  "http://www.idealo.de/preisvergleich/ProductCategory/18406F1529515-1898979.html?param.alternativeView=true&param.resultlist.count=50"
+                  "http://www.idealo.de/preisvergleich/ProductCategory/18406F1759451.html?param.alternativeView=true&param.resultlist.count=50"
     ]
 
     #===========================================================================
