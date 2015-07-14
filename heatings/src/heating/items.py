@@ -10,7 +10,8 @@ import scrapy
 
 class heatingItem(scrapy.Item):
     # define the fields for your item here like:
-    # name = scrapy.Field()
+    header = scrapy.Field()
+    kw = scrapy.Field()
     title = scrapy.Field()
     desc = scrapy.Field()
     linkwithprice = scrapy.Field()
@@ -19,3 +20,4 @@ class heatingItem(scrapy.Item):
     productid = scrapy.Field()
     sid = scrapy.Field()
     pass
+

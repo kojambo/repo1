@@ -3,29 +3,40 @@ import time
 import random
 
 from heating.items import heatingItem
-from selenium import webdriver
+#from selenium import webdriver
 
 class heatingSpider(scrapy.Spider):
     name = "heating"
     allowed_domains = ["idealo.de"]
     start_urls = [
-                  "http://www.idealo.de/preisvergleich/ProductCategory/18406F1529515.html?param.alternativeView=true&param.resultlist.count=50"
+                  "http://www.idealo.de/preisvergleich/ProductCategory/18406F1529515-1898979.html?param.alternativeView=true&param.resultlist.count=50"
     ]
-#        "http://www.idealo.de/preisvergleich/ProductCategory/18406F1759451.html?param.alternativeView=true&param.resultlist.count=50"
-#        "http://www.idealo.de/preisvergleich/ProductCategory/18406F1529515-1898979.html?param.alternativeView=true&param.resultlist.count=50"
+
+    #===========================================================================
+    # start_urls = [
+    #               "file:///D:/Doku/workspace/heatings/src/heating/html_pages/GasBW12_13kW.htm"
+    # ]
+    #===========================================================================
+        
+#"http://www.idealo.de/preisvergleich/ProductCategory/18406F1759451.html?param.alternativeView=true&param.resultlist.count=50"
+#"http://www.idealo.de/preisvergleich/ProductCategory/18406F1529515-1898979.html?param.alternativeView=true&param.resultlist.count=50"
 
     # calculate random sleep time
     # obtained from snippet luerichs Scraper Thread   
     def _time_to_wait(self):
-        return random.uniform(.1, 3)
+        return random.uniform(.1, .3)
     
         
     # third version from main page to subpages
     def parse(self, response):
-        for href in response.css("td.va-middle >  a::attr('href')"):    
-            url = response.urljoin(href.extract())
-            yield scrapy.Request(url, callback=self.parse_dir_contents)
-        
+        for number,row in enumerate(response.css("td.va-middle >  a::attr('href')")):    
+            url     = response.urljoin(row.extract())
+            kw      = response.xpath('//td[@class="info"]/p[@class="lh-16"]/text()').extract()[number]
+            header  = response.xpath('//td[@class="info"]/a[@class="offer-title link-2 webtrekk"]/text()').extract()[number]      
+               
+            request = scrapy.Request(url, callback=self.parse_dir_contents, meta={'kw': kw, 'header': header})
+            yield request
+                  
         next_page = response.css("div.inner > a.page-next::attr('href')")
         if next_page:
             url = response.urljoin(next_page[0].extract())
@@ -33,14 +44,19 @@ class heatingSpider(scrapy.Spider):
    
     
     def parse_dir_contents(self, response):
+        print response
         #item = heatingItem() 
         #my_driver = webdriver.PhantomJS()
         #my_driver.get(response.url)
         #results = my_driver.find_elements_by_xpath('//table[contains(@class, "modular")]//tr[.//a]')
         #for row in results:
         #    item['desc'] = row.find_element_by_xpath('./td[@class="title"]/a').text
+        item = heatingItem()
+        item['kw'] = response.meta['kw']
+        item['header'] = response.meta['header']
         for sel in response.xpath('//tr'):
-            item = heatingItem()  
+            #item = heatingItem()
+            #item['kw'] = sel.meta['kw']
             item['title'] = sel.xpath('td[@class="cta"]/a/img[@class="btn-cta-shop"]/@alt').extract()
             item['desc'] = sel.xpath('td/a[@class="offer-title link-2 webtrekk wt-prompt"]/text()').extract()
             item['linkwithprice'] = sel.xpath('td[@class="title"]/a[@class="offer-title link-2 webtrekk wt-prompt"]/@href').extract()
