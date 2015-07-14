@@ -31,7 +31,7 @@ class heatingSpider(scrapy.Spider):
     def parse(self, response):
         for number,row in enumerate(response.css("td.va-middle >  a::attr('href')")):    
             url     = response.urljoin(row.extract())
-            kw      = response.xpath('//td[@class="info"]/p[@class="lh-16"]/text()').extract()[number]
+            kw      = response.xpath('//td[@class="info"]/p[@class="lh-16"]/text()').re(r'rmeleistung: (.*) kW')[number]
             header  = response.xpath('//td[@class="info"]/a[@class="offer-title link-2 webtrekk"]/text()').extract()[number]      
                
             request = scrapy.Request(url, callback=self.parse_dir_contents, meta={'kw': kw, 'header': header})
